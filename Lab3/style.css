@@ -1,0 +1,27 @@
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+    padding: 20px;
+    border: black 10px solid;
+
+}
+.green {
+    background-color: green;
+    margin-left: 260px;
+    padding: 20px;
+    border: black 10px solid;
+}
+
+.blue {
+    background-color: blue;
+    margin-left: 520px;
+    padding: 20px;
+    border: black 10px solid;
+
+
+}

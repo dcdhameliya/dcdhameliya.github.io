@@ -1,0 +1,131 @@
+body {
+    background-color: #f1f1f1;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #212F3C;
+}
+
+.left-container {
+    float: left;
+    width: 30%;
+    height: 100%;
+}
+
+.right-container {
+    float: left;
+    width: 66%;
+    margin-left: 10px;
+}
+
+.box {
+    background: #FFFFFF;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.right-sub-container {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.job-intro {
+    width: 100%;
+    display: inline-block;
+    font-style: italic;
+}
+
+.job-title {
+    width: 40%;
+    color: #3498db;
+    float: left;
+    font-weight: bold;
+}
+
+.job-company {
+    width: 20%;
+    float: left;
+}
+
+.job-location {
+    width: 20%;
+    float: left;
+}
+
+.job-period {
+    width: 20%;
+    float: left;
+    text-align: right;
+    display: inline-block;
+}
+
+
+.left-sub-container {
+    padding: 10px;
+}
+
+.profile {
+    width: 100%;
+}
+
+.profile-name p {
+    text-align: center;
+}
+
+.profile-name h1 {
+    text-align: center;
+}
+
+.color-blue {
+    color: #3498db;
+}
+
+.skills-container {
+    width: 30%;
+    float: left;
+    padding: 10px;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+}
+
+.skill-progress {
+    /*margin-top: -10px;*/
+    height: 1.3em;
+    background: #CCD1D1;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+/**/
+.skill-progress div {
+    background: #3498db;
+    height: 1.3em;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+}
+
+.contact-container {
+    margin: -10px;
+    padding: 10px 20px;
+    background: #f1f1f1;
+    text-align: center;
+}
+
+.contact-container a {
+    text-decoration: none;
+    color: #000;
+}
+
+.contact-container a:hover {
+    text-decoration: none;
+    color: #3498db;
+}
+
+.center {
+    text-align: center;
+}
+
+/*
+color: #fff !important;
+    background-color: #009688 !important
+    */
